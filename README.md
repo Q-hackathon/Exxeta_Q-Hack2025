@@ -2,17 +2,11 @@
 
 ## Build AI Agents for Smart Staffing
 
-### 📄 Overview
+### 📄 Problem Statement
 
 In this hackathon, the challenge is to build a service or application that connects consultants with fitting projects by leveraging Multi-Agent AI Systems. Tech students are invited to explore how intelligent agent collaboration can bridge the gap between individual profiles and project needs, creating smarter, more dynamic connections. Whether it’s through skill-based matching, smart recommendations, or automated coordination, the aim is to let AI assist in establishing meaningful partnerships. Participants are encouraged to explore different approaches, experiment with agent roles, and develop solutions that make these processes more efficient.
 
-### 🎯 Target Group
-
-- Students interested in artificial intelligence, automation, and business process optimization  
-- Students with skills in web development, backend infrastructure, and AI service integration  
-- Aspiring entrepreneurs and developers looking to create impactful solutions for connecting talent and opportunities in businesses  
-
-### 🛠️ The Application We Will Build – AI-Powered Staffing Platform
+### 🛠️ **The Application That is Built**
 
 - An application that intelligently matches consultants with relevant projects based on their profiles and project requirements.  
 - A database consisting of consultant profiles and project descriptions.  
@@ -22,19 +16,19 @@ In this hackathon, the challenge is to build a service or application that conne
 
 We encourage teams to freely choose their tech stack up to their liking or past experiences. Below are the recommended technologies:
 
-#### 🔧 AI Workflow
+#### AI Workflow
 
 - Use n8n, pydantic, or a similar AI orchestration framework as the service layer to automate workflows and integrate AI functionalities into the matching process.  
 
-#### 🖥️ Web Development
+#### Web Development
 
 - Next.js or other JavaScript frameworks in combination with Spring Boot and MongoDB for developing a responsive and robust frontend and backend in a classical service-oriented architecture.  
 
-#### ☁️ Cloud Ready Architecture
+#### Cloud Ready Architecture
 
 - Utilize containerization to deploy to the provided AWS or Azure Cloud environment.  
 
-### ✅ Deliverables
+### ✅ Deliverables of the Challenge
 
 - A working prototype of the AI-Powered Staffing Platform (frontend, backend, and AI service integration).  
 - A presentation that includes:
@@ -42,10 +36,14 @@ We encourage teams to freely choose their tech stack up to their liking or past 
   - Architectural diagram showing how multi-agent AI connects consultants and projects  
   - Demonstration of the prototype in action  
   - Future roadmap and potential extension of the solution  
-  - (optional) Cloud deployment  
+  - (optional) Cloud deployment
 
-### 🧰 Resources Provided
+### 🧰 Provided Resources 
 
 - Access to cloud computing resources (AWS or Azure) for hosting and running the application  
 - Access to consultant profile and project description samples  
-- Mentoring sessions with experts in AI, cloud computing, and business process automation  
+- Mentoring sessions with experts in AI, cloud computing, and business process automation
+
+### 🏆 Additional Prizes for Challenge Winner
+
+The winner of our challenge will meet us in person in one of our offices
