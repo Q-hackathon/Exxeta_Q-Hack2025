@@ -1,6 +1,6 @@
 ![Q-Hack_Exxeta](https://github.com/user-attachments/assets/69a476aa-6c8f-4da5-b4f2-3b79e4d1669e)
 
-# Exxeta Challenge @ Q-Hack 2025
+# <p align="center"> Exxeta Challenge @ Q-Hack 2025 </p>
 
 ## Build AI Agents for Smart Staffing
 
