@@ -39,13 +39,14 @@ We encourage teams to freely choose their tech stack up to their liking or past 
   - Demonstration of the prototype in action  
   - Future roadmap and potential extension of the solution  
   - (optional) Cloud deployment
+  - (optional) Market research and competitor analysis
 
 ### 🧰 Provided Resources 
 
-- Access to cloud computing resources (AWS or Azure) for hosting and running the application  
 - Access to consultant profile and project description samples  
 - Mentoring sessions with experts in AI, cloud computing, and business process automation
-
+- (Not available) Access to cloud computing resources (AWS or Azure) for hosting and running the application
+   
 ### 🏆 Additional Prizes for Challenge Winner
 
 The winner of our challenge will meet us in person in one of our offices
