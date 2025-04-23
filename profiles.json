@@ -1,0 +1,913 @@
+[
+  {
+    "name": "Mira Hoffmann",
+    "role": "DevOps Engineer",
+    "seniority": "Senior",
+    "description": "Seasoned DevOps engineer with a passion for scalable infrastructure and automation. Contributed to a cloud migration project at Bosch, improving deployment pipelines and infrastructure reliability. Implemented a dynamic rollback strategy that prevented service disruption during critical updates.",
+    "certificates": [
+      "AWS Certified DevOps Engineer",
+      "Certified Kubernetes Administrator"
+    ],
+    "technologies": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "GitLab CI/CD",
+      "Prometheus",
+      "Grafana",
+      "Linux",
+      "Ansible"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Tobias Richter",
+    "role": "Software Architect",
+    "seniority": "Lead",
+    "description": "Lead architect with deep experience in designing scalable microservice ecosystems. Led a software modernization initiative at Deutsche Bank, focusing on breaking down monoliths into manageable services. Designed a new API layer that significantly improved system resilience under peak load.",
+    "certificates": [
+      "Certified Scrum Master",
+      "Oracle Certified Professional: Java SE"
+    ],
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "PostgreSQL",
+      "Docker",
+      "Kubernetes",
+      "Azure",
+      "REST APIs"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Leonie Brandt",
+    "role": "UX/UI Designer",
+    "seniority": "Mid-Level",
+    "description": "Creative UX/UI designer blending aesthetics with functionality. Worked on a mobile ticketing platform redesign for Deutsche Bahn, enhancing accessibility and user flow. Introduced a modular design system that streamlined future feature rollouts.",
+    "certificates": [
+      "Certified UX Designer (NN/g)",
+      "Adobe XD Advanced Training"
+    ],
+    "technologies": [
+      "Figma",
+      "Sketch",
+      "Adobe XD",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Accessibility Standards (WCAG)"
+    ],
+    "languages_spoken": ["German", "English", "Spanish"]
+  },
+
+  {
+    "name": "Jonas Keller",
+    "role": "Software Engineer",
+    "seniority": "Mid-Level",
+    "description": "Versatile backend developer with a focus on clean architecture and testable code. Participated in the development of a logistics platform at Deutsche Bahn, implementing a scheduling module for freight operations. Integrated a testing framework that drastically reduced production bugs.",
+    "certificates": [
+      "Oracle Certified Associate: Java SE",
+      "ISTQB Certified Tester Foundation Level"
+    ],
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "JUnit",
+      "Docker",
+      "Git",
+      "REST APIs",
+      "Jira"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Selina Weiß",
+    "role": "Frontend Developer",
+    "seniority": "Junior",
+    "description": "Frontend developer with an eye for user experience and responsive design. Contributed to an internal dashboard project at Bosch, building reusable React components for real-time monitoring. Created a component library that improved development speed across teams.",
+    "certificates": [
+      "Meta Front-End Developer Certificate",
+      "Scrum.org Professional Scrum Master I"
+    ],
+    "technologies": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Axios",
+      "Git",
+      "Figma"
+    ],
+    "languages_spoken": ["German", "English", "French"]
+  },
+  {
+    "name": "David Albrecht",
+    "role": "Fullstack Developer",
+    "seniority": "Senior",
+    "description": "Experienced fullstack developer with strong problem-solving skills and a passion for scalable systems. Worked on a payment module within a customer portal project at Deutsche Bank. Designed and built the user authentication flow with role-based access management.",
+    "certificates": [
+      "Fullstack Web Development Bootcamp (Udemy)",
+      "AWS Cloud Practitioner"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "React",
+      "MongoDB",
+      "Docker",
+      "AWS",
+      "Git",
+      "Nginx",
+      "TypeScript"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+
+  {
+    "name": "Anna Krüger",
+    "role": "Product Owner",
+    "seniority": "Senior",
+    "description": "Product-focused strategist with experience in bridging business goals and agile delivery. Worked on a smart fleet management platform project at Bosch, defining product vision and backlog priorities. Successfully aligned cross-functional teams across three departments through structured sprint planning.",
+    "certificates": [
+      "Certified Scrum Product Owner (CSPO)",
+      "Agile Project Management (PRINCE2 Agile)"
+    ],
+    "technologies": ["Jira", "Confluence", "Miro", "Figma", "Trello"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Felix Martens",
+    "role": "Project Manager",
+    "seniority": "Mid-Level",
+    "description": "Structured and people-oriented project manager with a track record in digital transformation initiatives. Managed timelines and stakeholder communication for a cloud infrastructure rollout at Deutsche Bahn. Introduced a status reporting routine that improved transparency across all project phases.",
+    "certificates": [
+      "PMP – Project Management Professional",
+      "ITIL Foundation Certificate"
+    ],
+    "technologies": ["MS Project", "Jira", "Confluence", "Slack", "Excel"],
+    "languages_spoken": ["German", "English", "Italian"]
+  },
+  {
+    "name": "Lena Voigt",
+    "role": "Scrum Master",
+    "seniority": "Junior",
+    "description": "Motivated scrum master with strong facilitation skills and a passion for team growth. Supported agile delivery for a mobile banking app project at Deutsche Bank. Established effective daily standups and retrospectives that helped uncover and resolve blockers early.",
+    "certificates": [
+      "Professional Scrum Master I (PSM I)",
+      "Agile Leadership Essentials"
+    ],
+    "technologies": ["Jira", "Confluence", "Miro", "Slack", "Notion"],
+    "languages_spoken": ["German", "English", "Spanish"]
+  },
+
+  {
+    "name": "Karim Adler",
+    "role": "QA Engineer",
+    "seniority": "Mid-Level",
+    "description": "Detail-driven QA engineer with a strong background in test automation and regression testing. Worked on the quality assurance of a ticketing backend system at Deutsche Bahn. Designed automated test suites that significantly improved test coverage across service endpoints.",
+    "certificates": [
+      "ISTQB Certified Tester – Advanced Level",
+      "Selenium WebDriver with Java (Udemy)"
+    ],
+    "technologies": [
+      "Selenium",
+      "Java",
+      "Postman",
+      "JMeter",
+      "Cypress",
+      "Git",
+      "Jira",
+      "TestRail"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Daria Lorenz",
+    "role": "Fullstack Developer",
+    "seniority": "Senior",
+    "description": "Fullstack developer with experience in scalable e-commerce systems and real-time APIs. Contributed to a digital purchasing platform project at Bosch, building both the customer-facing frontend and internal inventory services. Implemented a caching layer that improved data retrieval speed noticeably.",
+    "certificates": [
+      "Certified Fullstack Developer (Scrimba)",
+      "Azure Developer Associate"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Azure",
+      "TypeScript",
+      "Git"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Pauline Stein",
+    "role": "CMS Developer",
+    "seniority": "Mid-Level",
+    "description": "CMS specialist focused on building and customizing content-rich platforms. Worked on a multilingual corporate website relaunch for Deutsche Bank, optimizing CMS structures and performance. Built a custom plugin that streamlined internal publishing workflows.",
+    "certificates": [
+      "TYPO3 Certified Integrator",
+      "WordPress Development Certificate (LinkedIn Learning)"
+    ],
+    "technologies": [
+      "WordPress",
+      "TYPO3",
+      "PHP",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "languages_spoken": ["German", "English", "Polish"]
+  },
+
+  {
+    "name": "Mara Beck",
+    "role": "Machine Learning Engineer",
+    "seniority": "Senior",
+    "description": "Machine learning engineer with experience in deploying models for real-time decision-making systems. Worked on a predictive maintenance solution for industrial machinery in a project with Bosch. Designed a custom anomaly detection model integrated directly into edge devices.",
+    "certificates": [
+      "TensorFlow Developer Certificate",
+      "AWS Certified Machine Learning – Specialty"
+    ],
+    "technologies": [
+      "Python",
+      "TensorFlow",
+      "scikit-learn",
+      "Docker",
+      "AWS SageMaker",
+      "Pandas",
+      "FastAPI",
+      "Git"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Yusuf Demir",
+    "role": "Machine Learning Engineer",
+    "seniority": "Junior",
+    "description": "Junior ML engineer with a background in data preprocessing and NLP pipelines. Contributed to a customer support chatbot project at Deutsche Bank, focusing on intent recognition and training data preparation. Developed scripts that automated daily model evaluation routines.",
+    "certificates": [
+      "DeepLearning.AI NLP Specialization",
+      "Google Data Analytics Certificate"
+    ],
+    "technologies": [
+      "Python",
+      "spaCy",
+      "scikit-learn",
+      "Transformers",
+      "Git",
+      "Jupyter",
+      "Docker"
+    ],
+    "languages_spoken": ["German", "English", "Turkish"]
+  },
+  {
+    "name": "Niklas Voss",
+    "role": "Cloud Engineer",
+    "seniority": "Mid-Level",
+    "description": "Cloud engineer with a focus on automating infrastructure and securing deployments. Was part of a cloud migration project for a financial reporting tool at Deutsche Bank. Built a CI/CD pipeline with integrated infrastructure provisioning and secrets management.",
+    "certificates": [
+      "AWS Certified Solutions Architect – Associate",
+      "Terraform Associate Certification"
+    ],
+    "technologies": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "CI/CD",
+      "Docker",
+      "GitLab",
+      "Helm",
+      "Linux"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+
+  {
+    "name": "Jens Ritter",
+    "role": "Lead Software Engineer",
+    "seniority": "Lead",
+    "description": "Experienced engineer with a strong focus on designing robust backend systems and mentoring cross-functional teams. Led the backend architecture for a logistics optimization platform in a project with Deutsche Bahn. Introduced a modular service pattern that significantly improved deployment flexibility.",
+    "certificates": [
+      "Oracle Certified Professional Java SE",
+      "Kubernetes for Developers (Udacity)"
+    ],
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Kafka",
+      "Kubernetes",
+      "Docker",
+      "GitLab CI",
+      "Prometheus"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Sarah Heinemann",
+    "role": "Frontend Developer",
+    "seniority": "Lead",
+    "description": "Lead frontend developer with a strong UX sense and experience in building component libraries. Worked on a responsive analytics dashboard for Bosch’s internal tooling ecosystem. Introduced a custom design system that unified UI patterns across four different apps.",
+    "certificates": [
+      "Certified Web Accessibility Specialist (CWAS)",
+      "Advanced React (Frontend Masters)"
+    ],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Storybook",
+      "Webpack",
+      "Figma",
+      "Git",
+      "Jest"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Nico Berger",
+    "role": "Software Architect",
+    "seniority": "Senior",
+    "description": "Software architect with a background in distributed systems and enterprise integration. Contributed to a digital identity platform for Deutsche Bank, focusing on secure service orchestration. Defined core architectural principles that enabled scalability and resilience from the start.",
+    "certificates": [
+      "Certified Software Architect (iSAQB)",
+      "TOGAF 9 Certified"
+    ],
+    "technologies": [
+      "Java",
+      "Spring",
+      "Kafka",
+      "AWS",
+      "OpenID Connect",
+      "Terraform",
+      "Microservices",
+      "Docker"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+
+  {
+    "name": "Lukas Pfeiffer",
+    "role": "Product Owner",
+    "seniority": "Senior",
+    "description": "Strategic Product Owner with extensive experience in managing agile teams for B2B software solutions. Led the product vision for a fleet management system at Bosch, working closely with cross-functional teams to define product roadmaps and successfully launch new features that increased user engagement by 30%.",
+    "certificates": [
+      "Certified Scrum Product Owner (CSPO)",
+      "Agile Certified Practitioner (PMI-ACP)"
+    ],
+    "technologies": ["Jira", "Confluence", "Figma", "Miro", "Trello"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Clara Fischer",
+    "role": "Product Owner",
+    "seniority": "Mid-Level",
+    "description": "Product Owner with a focus on digital transformation projects and agile methodologies. Worked on enhancing customer experience for a mobile banking app at Deutsche Bank. Collaborated with the UX team to streamline the onboarding process, which led to a 15% improvement in customer retention.",
+    "certificates": [
+      "Certified Scrum Product Owner (CSPO)",
+      "Certified SAFe Product Owner"
+    ],
+    "technologies": ["Jira", "Asana", "Confluence", "Slack", "Trello"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "David Richter",
+    "role": "Scrum Master",
+    "seniority": "Senior",
+    "description": "Scrum Master with a passion for fostering self-organizing teams and driving continuous improvement. Led a cross-functional team at Bosch on a smart home project, ensuring the team adhered to agile practices and improved delivery speed by 20% through better sprint planning and retrospectives.",
+    "certificates": [
+      "Certified Scrum Master (CSM)",
+      "Professional Scrum Master I (PSM I)"
+    ],
+    "technologies": ["Jira", "Confluence", "Miro", "Slack", "Zoom"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Svenja Müller",
+    "role": "Data Analyst",
+    "seniority": "Mid-Level",
+    "description": "Data analyst with expertise in business intelligence and data-driven decision making. Worked with an insurance company to optimize risk assessment models, improving the underwriting process. Also contributed to automating reporting processes that reduced manual effort by 25%.",
+    "certificates": [
+      "Google Data Analytics Certificate",
+      "Microsoft Certified: Data Analyst Associate"
+    ],
+    "technologies": ["SQL", "Power BI", "Excel", "Python", "Tableau", "Jira"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Thomas Schmidt",
+    "role": "Fullstack Developer",
+    "seniority": "Senior",
+    "description": "Fullstack developer with strong background in cloud-native applications. Led a project for an automotive company, building a platform that tracks vehicle maintenance schedules and sends alerts. The platform used IoT devices and cloud services to provide real-time insights to customers.",
+    "certificates": [
+      "AWS Certified Developer – Associate",
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "AWS",
+      "MongoDB",
+      "Docker",
+      "Kubernetes",
+      "GitLab"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Felix Lang",
+    "role": "Cloud Engineer",
+    "seniority": "Mid-Level",
+    "description": "Cloud engineer with a focus on highly scalable applications. Worked on a large-scale migration of legacy infrastructure to the cloud for a public sector client. Ensured high availability and disaster recovery protocols were implemented in line with government regulations.",
+    "certificates": [
+      "AWS Certified Solutions Architect – Associate",
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "technologies": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "Linux",
+      "GitLab CI"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Michael Krause",
+    "role": "Business Analyst",
+    "seniority": "Junior",
+    "description": "Business analyst with a focus on process optimization and digital transformation in the automotive industry. Worked with a leading car manufacturer to develop a centralized data platform that streamlined supply chain processes, improving data accuracy and reducing lead times.",
+    "certificates": [
+      "Certified Business Analysis Professional (CBAP)",
+      "Agile Business Analyst Certification"
+    ],
+    "technologies": ["SQL", "Power BI", "Jira", "Excel", "Trello"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Lina Bauer",
+    "role": "UI/UX Designer",
+    "seniority": "Senior",
+    "description": "Experienced UI/UX designer who specializes in creating intuitive, user-centric designs for enterprise software solutions. Led the redesign of a customer portal for an automotive client, resulting in a 40% increase in customer satisfaction. Passionate about bridging the gap between design and functionality.",
+    "certificates": [
+      "Adobe Certified Expert (ACE)",
+      "Interaction Design Foundation Certification"
+    ],
+    "technologies": [
+      "Figma",
+      "Sketch",
+      "Adobe XD",
+      "Zeplin",
+      "Principle",
+      "InVision"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Jan Richter",
+    "role": "DevOps Engineer",
+    "seniority": "Lead",
+    "description": "Lead DevOps engineer with expertise in continuous integration and deployment. Spearheaded the cloud migration of a large-scale e-commerce platform for a client in the insurance industry. Automated infrastructure deployment with Terraform and Kubernetes, achieving 99.9% uptime.",
+    "certificates": [
+      "Certified Kubernetes Administrator (CKA)",
+      "AWS Certified DevOps Engineer – Professional"
+    ],
+    "technologies": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Ansible",
+      "Git"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Eva Schulze",
+    "role": "Backend Developer",
+    "seniority": "Senior",
+    "description": "Backend developer with a passion for scalable and resilient systems. Worked on building a high-performance microservices architecture for a large retail client, reducing system downtime by 30% and improving overall performance. Proficient in both monolithic and microservices-based systems.",
+    "certificates": [
+      "Oracle Certified Java Programmer",
+      "AWS Certified Solutions Architect"
+    ],
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MongoDB",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Maximilian Müller",
+    "role": "Mobile App Developer",
+    "seniority": "Mid-Level",
+    "description": "Mobile app developer specializing in building cross-platform mobile solutions. Created a multi-platform mobile app for a public sector client to improve citizen engagement with local government services. The app won an award for its user-friendly interface and functionality.",
+    "certificates": [
+      "Google Associate Android Developer",
+      "React Native Certification (Udacity)"
+    ],
+    "technologies": [
+      "React Native",
+      "Flutter",
+      "Java",
+      "Swift",
+      "Kotlin",
+      "Firebase",
+      "REST APIs"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Andreas Fuchs",
+    "role": "Cloud Architect",
+    "seniority": "Lead",
+    "description": "Cloud architect with extensive experience in designing and implementing enterprise cloud solutions. Led the implementation of a hybrid cloud strategy for a global automotive company, integrating on-premise infrastructure with AWS cloud services. Reduced costs by optimizing cloud resources.",
+    "certificates": [
+      "AWS Certified Solutions Architect – Professional",
+      "Azure Solutions Architect Expert"
+    ],
+    "technologies": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "CloudFormation"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+
+  {
+    "name": "Sophie Wagner",
+    "role": "iOS Developer",
+    "seniority": "Senior",
+    "description": "Senior iOS developer with a strong background in building native apps for the healthcare industry. Developed a telemedicine platform for a healthcare startup, integrating video calls, patient management, and data encryption to meet regulatory standards. Focused on performance optimization and intuitive design.",
+    "certificates": [
+      "Apple Certified iOS Developer",
+      "Swift Certification (Udemy)"
+    ],
+    "technologies": [
+      "Swift",
+      "Objective-C",
+      "Xcode",
+      "CoreData",
+      "Firebase",
+      "RESTful APIs",
+      "TestFlight"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Jonas Becker",
+    "role": "Android Developer",
+    "seniority": "Senior",
+    "description": "Experienced Android developer who led the development of an award-winning smart home app for an automotive client. Focused on integrating IoT devices with Android, optimizing battery life and ensuring real-time communication. Specializes in modern Android architecture patterns like MVVM and Clean Architecture.",
+    "certificates": [
+      "Google Associate Android Developer",
+      "Certified Kotlin Developer"
+    ],
+    "technologies": [
+      "Kotlin",
+      "Java",
+      "Android Studio",
+      "Jetpack Compose",
+      "Room Database",
+      "RxJava",
+      "Retrofit"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Lena Huber",
+    "role": "Cross-Platform Developer",
+    "seniority": "Mid-Level",
+    "description": "Cross-platform mobile developer specializing in React Native and Flutter. Worked on building a real-time social media app that runs seamlessly on both iOS and Android. Optimized app performance, reducing load times by 20%, and integrated push notifications and in-app purchases.",
+    "certificates": [
+      "React Native Certification",
+      "Flutter Developer Certificate (Coursera)"
+    ],
+    "technologies": [
+      "React Native",
+      "Flutter",
+      "JavaScript",
+      "Dart",
+      "Redux",
+      "Firebase",
+      "Expo"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Tobias Schmidt",
+    "role": "Mobile UI/UX Designer",
+    "seniority": "Mid-Level",
+    "description": "UI/UX designer specializing in mobile app design for both iOS and Android platforms. Designed user-friendly interfaces for a fitness app used by over 1 million users. Passionate about creating accessible designs that enhance user experience across mobile devices.",
+    "certificates": ["UX Design Certification", "Sketch Mastery (Udemy)"],
+    "technologies": [
+      "Sketch",
+      "Figma",
+      "Adobe XD",
+      "InVision",
+      "Zeplin",
+      "Principle"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Felix König",
+    "role": "Mobile App Tester",
+    "seniority": "Junior",
+    "description": "Mobile app tester with experience in both manual and automated testing for Android and iOS apps. Worked on a ride-sharing app, ensuring app stability, performance, and compatibility across different devices and OS versions. Experienced with integration testing and bug reporting tools like Jira.",
+    "certificates": ["ISTQB Certified Tester", "Appium Mobile Testing (Udemy)"],
+    "technologies": [
+      "Appium",
+      "Jest",
+      "XCUITest",
+      "Espresso",
+      "Jira",
+      "TestRail"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Kai Müller",
+    "role": "Fullstack Developer",
+    "seniority": "Senior",
+    "description": "Fullstack developer with extensive experience in both frontend and backend development, specializing in building scalable web applications. Worked on an e-commerce platform for a major automotive company, improving site speed and conversion rate by optimizing both the frontend React components and backend Node.js services.",
+    "certificates": [
+      "Certified React Developer",
+      "AWS Certified Solutions Architect – Associate"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "GraphQL",
+      "Docker",
+      "Redux",
+      "AWS"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Carla Schmidt",
+    "role": "Backend Developer",
+    "seniority": "Mid-Level",
+    "description": "Backend developer with a strong background in designing RESTful APIs and microservices. Led the development of an internal automation tool for a finance client, streamlining data processing and saving 30 hours per week in manual labor. Passionate about optimizing API performance and ensuring high availability.",
+    "certificates": ["Java Certified Developer", "Docker Certified Associate"],
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "RESTful APIs",
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "David Lenz",
+    "role": "Frontend Developer",
+    "seniority": "Junior",
+    "description": "Frontend developer specializing in modern JavaScript frameworks, with a focus on building responsive and interactive user interfaces. Developed a user dashboard for a renewable energy client, ensuring cross-browser compatibility and seamless mobile-first design.",
+    "certificates": [
+      "Frontend Web Development (freeCodeCamp)",
+      "React.js Certification"
+    ],
+    "technologies": ["React", "JavaScript", "HTML5", "CSS3", "SASS", "Git"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Johann Weber",
+    "role": "DevOps Engineer",
+    "seniority": "Senior",
+    "description": "Experienced DevOps engineer with expertise in CI/CD pipelines, cloud infrastructure, and automation. Implemented a robust DevOps pipeline for a financial services client, reducing deployment time by 50% and improving system reliability.",
+    "certificates": [
+      "AWS Certified DevOps Engineer",
+      "Certified Kubernetes Administrator"
+    ],
+    "technologies": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Jenkins",
+      "Ansible",
+      "Kubernetes",
+      "GitLab CI"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Sophie König",
+    "role": "Software Engineer",
+    "seniority": "Lead",
+    "description": "Lead software engineer with a focus on building high-performance distributed systems. Led the development of a data processing pipeline for an energy client that handles millions of data points in real-time, using Apache Kafka and Hadoop to ensure scalability and reliability.",
+    "certificates": [
+      "Certified Java Developer",
+      "Hadoop Administrator Certification"
+    ],
+    "technologies": [
+      "Java",
+      "Apache Kafka",
+      "Hadoop",
+      "Spring Boot",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+
+  {
+    "name": "Daniela Huber",
+    "role": "Mobile App Tester",
+    "seniority": "Junior",
+    "description": "Junior mobile app tester with a focus on manual testing for iOS and Android apps. Participated in testing a location-based app for a public sector client, ensuring proper functionality in varying network conditions. Experienced with test case writing and bug tracking.",
+    "certificates": [
+      "ISTQB Certified Tester",
+      "Mobile App Testing Fundamentals (Udemy)"
+    ],
+    "technologies": ["Jira", "TestRail", "Appium", "Espresso", "XCUITest"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Oliver Becker",
+    "role": "Automation Tester",
+    "seniority": "Senior",
+    "description": "Senior automation tester with deep expertise in test automation frameworks and CI/CD pipelines. Developed automated test scripts for a cloud-based SaaS platform used by a major automotive client, significantly improving the quality and efficiency of regression testing.",
+    "certificates": [
+      "ISTQB Advanced Test Automation Engineer",
+      "Certified Selenium WebDriver"
+    ],
+    "technologies": [
+      "Selenium",
+      "Appium",
+      "JUnit",
+      "Jenkins",
+      "TestNG",
+      "Git",
+      "Postman"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+
+  {
+    "name": "Emily Wagner",
+    "role": "Product Owner",
+    "seniority": "Senior",
+    "description": "Senior Product Owner with extensive experience in agile project management. Worked with a major insurance company to deliver a new claims management system, successfully coordinating between stakeholders, development teams, and clients to ensure a timely, feature-rich product delivery.",
+    "certificates": [
+      "Certified Scrum Product Owner (CSPO)",
+      "Agile Product Management (Udemy)"
+    ],
+    "technologies": ["Jira", "Trello", "Confluence", "Agile", "Scrum"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Markus Weber",
+    "role": "Project Manager",
+    "seniority": "Lead",
+    "description": "Lead Project Manager with a focus on overseeing end-to-end project lifecycles. Led the development of a B2B SaaS platform for a public sector client, managing cross-functional teams and delivering the project on time despite tight deadlines and complex regulatory requirements.",
+    "certificates": [
+      "PMP Certified",
+      "Prince2 Practitioner",
+      "Scrum Master Certification"
+    ],
+    "technologies": [
+      "Jira",
+      "Microsoft Project",
+      "Confluence",
+      "Slack",
+      "Trello"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Sarah Hoffmann",
+    "role": "Business Analyst",
+    "seniority": "Mid-Level",
+    "description": "Business Analyst with a background in optimizing software for automotive industries. Worked with a major car manufacturer to design and implement an advanced inventory tracking system, significantly improving warehouse management efficiency by over 20%.",
+    "certificates": [
+      "Certified Business Analysis Professional (CBAP)",
+      "Agile Business Analysis (Coursera)"
+    ],
+    "technologies": [
+      "Microsoft Excel",
+      "Jira",
+      "Balsamiq",
+      "Confluence",
+      "Visio"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Julia Meier",
+    "role": "UX Designer",
+    "seniority": "Mid-Level",
+    "description": "Experienced UX Designer with expertise in user research and interface design. Worked on redesigning a mobile app for a major energy company, focusing on simplifying the user interface and increasing user engagement by 30%.",
+    "certificates": [
+      "UX Design (Interaction Design Foundation)",
+      "Certified Usability Analyst (HFI)"
+    ],
+    "technologies": ["Sketch", "Figma", "Adobe XD", "InVision", "Axure"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Luca Braun",
+    "role": "Quality Assurance Analyst",
+    "seniority": "Mid-Level",
+    "description": "QA Analyst with experience in manual and automated testing for SaaS solutions. Contributed to the successful launch of an e-commerce platform for a leading automotive client, ensuring high-quality standards were met by identifying critical bugs and optimizing test coverage.",
+    "certificates": ["ISTQB Certified Tester", "Agile Testing Certification"],
+    "technologies": ["Selenium", "Jenkins", "Jira", "TestRail", "Postman"],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Anna König",
+    "role": "Scrum Master",
+    "seniority": "Mid-Level",
+    "description": "Scrum Master with a focus on facilitating agile processes. Helped a public sector client achieve a successful implementation of a digital transformation strategy, streamlining software delivery by creating a collaborative and high-performing team culture.",
+    "certificates": [
+      "Certified ScrumMaster (CSM)",
+      "Agile Coaching Certification"
+    ],
+    "technologies": ["Jira", "Trello", "Confluence", "Slack", "Miro"],
+    "languages_spoken": ["German", "English"]
+  },
+
+  {
+    "name": "Niklas Jäger",
+    "role": "Lead Backend Developer",
+    "seniority": "Lead",
+    "description": "Lead Backend Developer with a strong background in scalable microservices architectures. Led a team in building a real-time transaction processing system for a fintech project at Deutsche Bank, ensuring high fault tolerance and seamless API integration across services.",
+    "certificates": [
+      "Oracle Certified Java Programmer",
+      "AWS Certified Solutions Architect"
+    ],
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "Kubernetes",
+      "PostgreSQL",
+      "Kafka",
+      "Docker",
+      "AWS"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Franziska Maurer",
+    "role": "Lead Frontend Developer",
+    "seniority": "Lead",
+    "description": "Experienced Lead Frontend Developer focused on performance-driven UI development. Directed the redesign of a complex analytics dashboard for a mobility platform in the automotive sector, improving responsiveness and accessibility across devices.",
+    "certificates": ["Google Mobile Web Specialist", "Scrum for Developers"],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS",
+      "Redux",
+      "Storybook",
+      "Jest"
+    ],
+    "languages_spoken": ["German", "English"]
+  },
+  {
+    "name": "Tobias Scholz",
+    "role": "Lead Fullstack Developer",
+    "seniority": "Lead",
+    "description": "Lead Fullstack Developer with hands-on experience leading cross-functional teams. Spearheaded the development of a digital self-service portal for a national energy provider, integrating complex business logic and secure user flows from frontend to backend.",
+    "certificates": [
+      "Fullstack Web Development (Udacity)",
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "technologies": [
+      "Node.js",
+      "React",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker",
+      "Azure"
+    ],
+    "languages_spoken": ["German", "English"]
+  }
+]
