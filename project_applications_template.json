@@ -1,0 +1,33 @@
+{
+  "projectApplication": {
+    "applicationStatus": "string",
+    "businessDetails": {
+	    "name": "string",
+	    "contactPerson": {
+		    "name": "string",
+		    "email": "string",
+		    "phone": "string"
+		    },
+		"industry": "string",
+		"numberOfEmployees": number,
+		"location": "string",
+		"website": "string"
+    },
+    "projectDetails": {
+      "projectName": "string",
+      "description": "string",
+      "location": "string"
+      "requirements": [
+	      {
+		      "skill": "string",
+		      "amount": number,
+		      "recommendedSeniority": "string" or number
+	      },
+	      ...
+      ],
+      "budget": number
+      "startDate": "YYYY-MM-DD",
+      "endDate": "YYYY-MM-DD"
+    }
+  }
+}
