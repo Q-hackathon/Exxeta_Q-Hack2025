@@ -1,0 +1,17 @@
+[
+  {
+    "name": "string",
+    "role": "string",
+    "seniority": "string",
+    "description": "string",
+    "certificates": [
+      "string"
+    ],
+    "technologies": [
+      "string"
+    ],
+    "languages_spoken": [
+      "string"
+    ]
+  }
+]
